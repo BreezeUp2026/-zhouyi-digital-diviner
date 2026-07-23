@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "周易卦师｜数字起卦"
+  short_description: "数字起卦与卦辞爻辞解读"
+  default_prompt: "使用 $zhouyi-digital-diviner 围绕一个具体问题进行数字起卦解读。"
